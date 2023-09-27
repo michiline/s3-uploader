@@ -1,0 +1,10 @@
+/output/*
+!output/.gitkeep
+
+/public/*
+!public/.gitkeep
+
+.env
+.DS_Store
+
+
